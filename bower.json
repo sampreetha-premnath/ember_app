@@ -2,6 +2,8 @@
   "name": "super-rentals-2",
   "dependencies": {
     "ember": "~2.9.0",
-    "ember-cli-shims": "0.1.3"
+    "ember-cli-shims": "0.1.3",
+    "pretender": "~0.10.1",
+    "Faker": "~3.0.0"
   }
 }
